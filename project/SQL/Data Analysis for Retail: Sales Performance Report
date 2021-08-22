@@ -1,2 +1,7 @@
-#Database didapat dari DQLab. Dimana pada project ini diberikan dataset yang berisi transaksi dari tahin 2009 sampai dengan tahun 2012.
-Dataset diberi nama dqlab_sales_store
+*Database didapat dari DQLab. Dimana pada project ini diberikan dataset yang berisi transaksi dari tahun 2009 sampai dengan tahun 2012.
+Dataset diberi nama dqlab_sales_store*
+
+*Dataset memili data kolom diantaranya:
+- order_id
+- Order_status
+- customer 
