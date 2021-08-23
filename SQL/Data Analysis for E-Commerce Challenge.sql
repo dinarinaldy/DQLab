@@ -1,5 +1,5 @@
 /*
-The dataset used is data from the DQLab Store which is an e-commerse where users can be
+The dataset used is data from the DQLab Store which is an e-commerce where users can be
 both buyer and seller. So, users can buy goods from other users who sell.
 */
 
